@@ -2,7 +2,7 @@
 ## Create a password encryption application.
 ### Requirements
 
-1. Download library from [sytelus/CryptoJS] (https://github.com/sytelus/CryptoJS)
+1. Download library from [sytelus/CryptoJS](https://github.com/sytelus/CryptoJS)
    - Be sure to use the files from the rollups folder, NOT the components folder!
 2. Using the provided HTML/JS files, create a password encryption page.
 3. The user should be able to enter their desired password into a text box.
